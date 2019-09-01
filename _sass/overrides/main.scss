@@ -1,0 +1,72 @@
+header.site-header {
+  background-color: $brand-color;
+  border-top-color: $brand-color-alt;
+
+  img.logo {
+    width: 260px;
+  }
+
+  .social-links {
+    ul {
+      margin-bottom: 0;
+      li {
+        display: inline-block;
+        margin-right: 5px;
+        .svg-icon {
+          fill: $brand-color-alt;
+          &:hover,
+          &.active {
+            fill: darken($brand-color-alt, 15%);
+          }
+        }
+      }
+    }
+  }
+
+  .site-nav {
+    line-height: 28px;
+    z-index: 20;
+
+    label {
+      margin-bottom: 0;
+    }
+
+    .page-links {
+      color: white;
+      line-height: $base-line-height;
+
+      // Gaps between nav items, but not on the last one
+      &:not(:last-child) {
+        margin-right: 20px;
+      }
+    }
+
+    @include media-query($on-palm) {
+      .page-links {
+        display: block;
+        padding: 5px 10px;
+        color: $brand-color;
+
+        &:not(:last-child) {
+          margin-right: 0;
+        }
+        margin-left: 20px;
+      }
+    }
+  }
+
+  @include media-query($on-palm) {
+    .site-nav {
+      margin-top: 10px;
+    }
+    .social-links {
+      visibility: hidden;
+      display: none;
+    }
+  }
+}
+
+.svg-icon {
+  width: 21px;
+  height: 16px;
+}
