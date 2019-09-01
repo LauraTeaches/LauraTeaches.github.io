@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Contact Laura
+Contact Laura on the phone 📞
