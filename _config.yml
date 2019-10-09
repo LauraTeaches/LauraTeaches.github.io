@@ -22,17 +22,16 @@ author: Laura Bowyer
 title: Laura Teaches
 email: info@laurateaches.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Central-London Based English Teacher specialising in EFL, ESOL and ESP
+(c) 2019 Laura Teaches
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-twitter_username: laurateaches
-linkedin_username: laurateaches
-instagram_username: laurateaches
-facebook_username: laurateaches
-pinterest_username: laurateaches
+twitter_username: @LauraTeachesEFL
+linkedin_username: https://www.linkedin.com/in/laura-bowyer-89618556/
+instagram_username: @LauraTeachesEFL
+facebook_username: @LauraTeachesEFL
+pinterest_username: www.pinterest.com/LauraTeachesEFL
 
 # Build settings
 theme: minima
