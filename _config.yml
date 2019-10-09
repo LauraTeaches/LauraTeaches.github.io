@@ -23,15 +23,15 @@ title: Laura Teaches
 email: info@laurateaches.com
 description: >- # this means to ignore newlines until "baseurl:"
   Central-London Based English Teacher specialising in EFL, ESOL and ESP
-  (c) 2019 Laura Teaches
+  copyright notice 2019 Laura Teaches
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-twitter_username: @LauraTeachesEFL
+twitter_username: LauraTeachesEFL
 linkedin_username: www.linkedin.com/in/LauraTeachesEFL
-instagram_username: @LauraTeachesEFL
-facebook_username: @LauraTeachesEFL
-pinterest_username: @LauraTeachesEFL
+instagram_username: LLauraTeachesEFL
+facebook_username: LauraTeachesEFL
+pinterest_username: LauraTeachesEFL
 
 # Build settings
 theme: minima
