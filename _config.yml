@@ -27,11 +27,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-twitter_username: https://twitter.com/LauraTeachesEFL
-linkedin_username: https://www.linkedin.com/in/laura-bowyer-89618556/
-instagram_username: https://www.instagram.com/laurateachesefl/
-facebook_username: https://www.facebook.com/LauraTeachesEFL/
-pinterest_username: www.pinterest.com/LauraTeachesEFL
+twitter_username: @LauraTeachesEFL
+linkedin_username: www.linkedin.com/in/LauraTeachesEFL
+instagram_username: @LauraTeachesEFL
+facebook_username: @LauraTeachesEFL
+pinterest_username: @LauraTeachesEFL
 
 # Build settings
 theme: minima
