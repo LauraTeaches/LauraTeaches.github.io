@@ -28,10 +28,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: LauraTeachesEFL
-linkedin_username: www.linkedin.com/in/LauraTeachesEFL
 instagram_username: LauraTeachesEFL
 facebook_username: LauraTeachesEFL
 pinterest_username: LauraTeachesEFL
+linkedin_username: <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="laurateachesefl"><a class="LI-simple-link" href='https://uk.linkedin.com/in/laurateachesefl?trk=profile-badge'>Laura Bowyer</a></div>
 
 # Build settings
 theme: minima
