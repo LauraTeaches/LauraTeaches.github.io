@@ -15,4 +15,4 @@ instagram_username: @LauraTeachesEFL
 facebook_username: @LauraTeachesEFL
 pinterest_username: www.pinterest.com/LauraTeachesEFL
 
-Picture of me! 
+[![Laura Headshot.jpg]()]
